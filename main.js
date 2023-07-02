@@ -1,0 +1,1 @@
+var spanText = document.getElementById('content');
