@@ -1,1 +1,2 @@
-var spanText = document.getElementById('content');
+var content = document.getElementById('content');
+content.remove();
